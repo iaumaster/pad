@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Test
+namespace Hello_Pad
 {
     public class BundleConfig
     {

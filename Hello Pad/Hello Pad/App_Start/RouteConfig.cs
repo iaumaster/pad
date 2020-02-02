@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Test
+namespace Hello_Pad
 {
     public class RouteConfig
     {
